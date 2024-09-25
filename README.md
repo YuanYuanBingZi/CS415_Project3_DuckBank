@@ -43,8 +43,8 @@ Duck Bank is a multithreaded banking system designed to handle hundreds of thous
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/YuanYuanBingZi/duck-bank.git
-    cd duck-bank
+    git clone https://github.com/YuanYuanBingZi/Duck-Bank.git
+    cd Duck-Bank
     ```
 
 2. **Compile the Project:**
